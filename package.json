@@ -1,0 +1,12 @@
+{
+  "name": "ws-mux",
+  "version": "0.0.1",
+  "description": "Wrap websockets and transparently add namespacing",
+  "main": "index.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joshwnj",
+  "license": "MIT"
+}
