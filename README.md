@@ -1,4 +1,4 @@
 ws-mux
 ====
 
-Wrap a websocket client to allow multiple channels.
+Wrap websockets and transparently add namespacing.
