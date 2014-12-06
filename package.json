@@ -1,6 +1,6 @@
 {
   "name": "ws-mux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrap websockets and transparently add namespacing",
   "main": "index.js",
   "browser": "browser.js",
